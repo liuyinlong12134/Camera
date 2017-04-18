@@ -1,0 +1,16 @@
+PODS:
+  - Camera (0.1.0)
+
+DEPENDENCIES:
+  - Camera (from `../`)
+
+EXTERNAL SOURCES:
+  Camera:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Camera: 69f959140df7f47bb6b5a018e4141f889fe475e3
+
+PODFILE CHECKSUM: 8336bfc91b375ab08b42154fde55f8e0b3684a75
+
+COCOAPODS: 1.1.1
