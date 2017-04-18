@@ -24,8 +24,10 @@ AVCaptureAudioDataOutputSampleBufferDelegate
     LRCamera * camera = [[LRCamera alloc]init];
     //创建捕捉会话
     [camera setupSession:sessionPreset];
+    
     //添加捕获视频数据
     [camera setupVideo:postion];
+    
     //添加捕获音频数据、
     //音频底层格式是PCM
     return camera;
